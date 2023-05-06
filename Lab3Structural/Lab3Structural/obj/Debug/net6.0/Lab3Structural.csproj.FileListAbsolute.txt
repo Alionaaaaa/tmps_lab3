@@ -1,0 +1,15 @@
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\bin\Debug\net6.0\Lab3Structural.exe
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\bin\Debug\net6.0\Lab3Structural.deps.json
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\bin\Debug\net6.0\Lab3Structural.runtimeconfig.json
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\bin\Debug\net6.0\Lab3Structural.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\bin\Debug\net6.0\Lab3Structural.pdb
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.csproj.AssemblyReference.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.AssemblyInfoInputs.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.AssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.csproj.CoreCompileInputs.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\refint\Lab3Structural.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.pdb
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\Lab3Structural.genruntimeconfig.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab3\Lab3Structural\Lab3Structural\obj\Debug\net6.0\ref\Lab3Structural.dll
